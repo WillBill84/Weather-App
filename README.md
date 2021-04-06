@@ -20,6 +20,7 @@ The uv index will change colour based on good, moderate, high levels of UV.
 ## Improvements
 
 Some things that need improving are: 
+
 •better error handling. At the moment invalid searches will get added to the list.
 also wrong or misspelled locations give a 404 in the console so I need to handle those. 
 
